@@ -6,3 +6,5 @@ This project focuses on leveraging Qlik Insights to revolutionize supply chain m
 #dataset link -- **https://drive.google.com/file/d/1vVoRXRhPoTGhxko3KAVkrxNN6wvPUZeO/view?usp=sharing** **https://drive.google.com/file/d/1zV8MBL8ZxB_hPYap6jyD1ZSODocfQhBN/view?usp=sharing**
 
 #demonstration link --**https://drive.google.com/file/d/1t6XEXSEXpdHGw77HMzn726d3-JMYIZV3/view?usp=sharing**
+
+#visalizations and dashboards -- **https://drive.google.com/drive/folders/1WGZjleUMC8Or_HrVcYeUqpvztrURTEAq**
